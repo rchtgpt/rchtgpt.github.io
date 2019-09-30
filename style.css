@@ -122,6 +122,24 @@ header img {
 	transition-delay: 0s !important;
 }
 
+.footer {
+	font-family: Montserrat;
+	background-color: #222;
+	color: #fff;
+	font-size: 14px;
+	bottom: 0;
+	line-height: 10px;
+	position: fixed;
+	left: 0;
+	right: 0;
+	text-align: center;
+	z-index: 999;
+}
+a {
+	text-decoration: none;
+	color: #16e16e;
+}
+
 /*  ---------------------- */
 /* Responsive Section */
 /*  ---------------------- */
