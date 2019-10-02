@@ -1,4 +1,7 @@
 /* CSS Variables */
+html {
+	height: 100%;
+}
 :root {
 	--primary: #ddd;
 	--dark: #0f0f0f;
@@ -72,10 +75,10 @@ header img {
 	align-content: center;
 	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
 	background: url('fbcover.jpg');
-
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
+	height: 100vh;
 	color: var(--light);
 	text-align: center;
 	margin: 0 0;
