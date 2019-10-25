@@ -119,11 +119,42 @@ header img {
 	text-decoration: none;
 }
 
-.social-media a :hover {
+#insta:hover {
+	color: #E1306C;
+	transform: scale(1.3, 1.3);
+	transition-delay: 0s !important;
+}
+
+#github:hover {
+	color: #0f0f0f;
+	transform: scale(1.3, 1.3);
+	transition-delay: 0s !important;
+}
+
+#fb:hover {
+	color: #3b5998;
+	transform: scale(1.3, 1.3);
+	transition-delay: 0s !important;
+}
+
+#mail:hover {
 	color: #16e16e;
 	transform: scale(1.3, 1.3);
 	transition-delay: 0s !important;
 }
+
+/*.fa-instagram :hover {
+	color: #a4a4a4 !important;
+	transform: scale(1.3, 1.3);
+	transition-delay: 0s !important;
+
+}
+/*
+.social-media a :hover {
+	color: #16e16e;
+	transform: scale(1.3, 1.3);
+	transition-delay: 0s !important;
+}*/
 
 .footer {
 	font-family: Montserrat;
