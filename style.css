@@ -138,6 +138,12 @@ header img {
 }
 
 #mail:hover {
+	color: #fff;
+	transform: scale(1.3, 1.3);
+	transition-delay: 0s !important;
+}
+
+#spotify:hover {
 	color: #16e16e;
 	transform: scale(1.3, 1.3);
 	transition-delay: 0s !important;
@@ -156,7 +162,7 @@ header img {
 	transition-delay: 0s !important;
 }*/
 
-.footer {
+/*.footer {
 	font-family: Montserrat;
 	background-color: #222;
 	color: #fff;
@@ -168,7 +174,7 @@ header img {
 	right: 0;
 	text-align: center;
 	z-index: 999;
-}
+}*/
 a {
 	text-decoration: none;
 	color: #16e16e;
