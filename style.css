@@ -3,18 +3,11 @@ html {
 	height: 100%;
 }
 :root {
-	--primary: #ddd;
 	--dark: #0f0f0f;
-	--dark2: #141516;
 	--light: #fff;
 	--grey: rgb(233, 233, 233);
-	--shadow: 0 0px 16px rgba(0, 0, 0, 0.2);
-	--box-shadow: 0px 0px 34px rgba(0, 0, 0, 0.08);
-	--purple: #4b2db1;
 	--transition: all 250ms cubic-bezier(0.02, 0.01, 0.47, 1);
 	--gradient: linear-gradient(73deg, rgba(75, 45, 176, 1), hsl(257, 53%, 56%));
-	--instagram: #fb3958;
-	--fb: #3b5998;
 }
 
 body {
@@ -169,9 +162,6 @@ a {
 	color: #16e16e;
 }
 
-/*  ---------------------- */
-/* Responsive Section */
-/*  ---------------------- */
 @media screen and (max-width: 500px) {
 	header a {
 		margin-left: 0em;
